@@ -1,0 +1,15 @@
+.app{
+   
+    background-image: url(./Components/Assets/background.jpg);
+    
+    background-size: cover;
+
+    background-position: center;
+   
+}
+
+.grid__height{
+    height: 100px;
+    overflow: auto;
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+.tst_label{
+    font-weight: bolder;
+}
+
+.tst_input{
+    border: 1px solid red;
+}
+
+.tst_btn{
+    height: 40px;
+    width: 200px;
+    background-color: aqua;
+    color: white;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.tst_btn:hover{
+    background-color: blue;
+    font-size: 24px;
+}

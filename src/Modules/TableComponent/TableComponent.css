@@ -1,0 +1,17 @@
+.table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  
+  .tbody {
+    max-height: 50px; /* Adjust as needed */
+    overflow-y: auto;
+  }
+  
+  .tfoot {
+    position: sticky;
+    bottom: 0;
+    background-color: #f2f2f2;
+  }
+  
